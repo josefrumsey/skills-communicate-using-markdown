@@ -2,9 +2,9 @@ Headings
 
 # taco beEl
 
-###taco beeell
+### taco beeell
 
-######tassco bal
+###### tassco bal
 
 
 Insert photo
@@ -18,6 +18,7 @@ var myVar = "Hi bitches";
 Task Lists
 - [ ] Unchecked task
 - [x] Checked task
+
 
 
 
